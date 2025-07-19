@@ -1,6 +1,7 @@
 # Swimming Pool Scheduler for Home Assistant
 
 This custom integration automates your pool chlorinator and includes a custom Lovelace card to visualize daily runtime based on forecast temperature and UV index.
+This is still work in progress for now.
 
 ---
 
