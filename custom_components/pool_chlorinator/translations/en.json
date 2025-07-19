@@ -1,0 +1,32 @@
+{
+  "title": "Swimming Pool Scheduler",
+  "config": {
+    "step": {
+      "user": {
+        "title": "Swimming Pool Scheduler Setup",
+        "description": "Configure which entities to control the pool system.",
+        "data": {
+          "pump_entity": "Pump switch (input_boolean)",
+          "chlorinator_entity": "Chlorinator switch (input_boolean)",
+          "fan_entity": "Fan switch (input_boolean)",
+          "weather_entity": "Weather forecast entity"
+        }
+      }
+    },
+    "options": {
+      "step": {
+        "init": {
+          "title": "Scheduler Options",
+          "description": "Adjust override and runtime behavior",
+          "data": {
+            "manual_override": "Enable manual override",
+            "override_duration": "Manual override duration (minutes)"
+          }
+        }
+      }
+    },
+    "abort": {
+      "already_configured": "This integration is already set up."
+    }
+  }
+}
