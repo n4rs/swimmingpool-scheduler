@@ -21,7 +21,7 @@ This custom integration automates your pool chlorinator and includes a custom Lo
 1. Go to HACS → Integrations → 3-dot menu → **Custom Repositories**
 2. Add this repository URL:
 ```
-https://github.com/YOUR_USERNAME/swimmingpool-scheduler
+https://github.com/n4rs/swimmingpool-scheduler
 ```
 3. Select **Integration**
 
@@ -113,4 +113,12 @@ swimmingpool-scheduler/
 
 ## 📜 License
 
-MIT
+GPL-3.0 license
+
+---
+
+## 🍺 Support This Project
+
+If this saved you time or improved your pool life, consider buying me a ~~coffee~~ [**beer**](https://coff.ee/n4rs)! 🍻
+
+[![Buy Me A Beer](https://img.shields.io/badge/Buy%20Me%20a-🍺%20Beer-orange?style=for-the-badge&logo=buymeacoffee)](https://www.buymeacoffee.com/n4rs)
