@@ -1,0 +1,9 @@
+{
+  "name": "Swimming Pool Scheduler",
+  "content_in_root": false,
+  "domains": ["swimmingpool_scheduler"],
+  "country": "🌍",
+  "homeassistant": "2024.4.0",
+  "render_readme": true,
+  "prerelease": true
+}
